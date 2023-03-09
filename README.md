@@ -5,4 +5,7 @@
 جنسیت کاربر (Gender) ،
 سن کاربر (Age) ،
 درآمد سالیلانه (Annual Income) ،
-امتیاز کاربر بر اساس رفتار (Spending Score) ،
+امتیاز کاربر بر اساس رفتار (Spending Score) 
+
+نتیجه نهایی: 
+![image](https://user-images.githubusercontent.com/80525434/224172292-1e347fb5-7008-4a44-aadb-126fe442e07d.png)
